@@ -77,3 +77,5 @@ $().startSwapping
 $().stopSwapping
 
     Stop it!
+
+This code is public domain.
